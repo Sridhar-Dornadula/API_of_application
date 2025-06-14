@@ -1,3 +1,3 @@
-apis_api -> https://c054-2406-7400-3b-68e6-a00-27ff-fe6e-283c.ngrok-free.app
-teacher_api -> https://4609-2406-7400-3b-68e6-a00-27ff-fe6e-283c.ngrok-free.app
-school_api -> https://d582-2406-7400-3b-68e6-a00-27ff-fe6e-283c.ngrok-free.app
+school_api -> https://cc47-2406-7400-3b-68e6-a00-27ff-fe6e-283c.ngrok-free.app
+teacher_api -> https://35eb-2406-7400-3b-68e6-a00-27ff-fe6e-283c.ngrok-free.app
+apis_api -> https://3af5-2406-7400-3b-68e6-a00-27ff-fe6e-283c.ngrok-free.app
