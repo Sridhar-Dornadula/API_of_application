@@ -1,3 +1,3 @@
 apis_api -> https://cb39-2406-7400-3b-3ff7-a00-27ff-fe6e-283c.ngrok-free.app
-school_api -> https://ea7e-2406-7400-3b-3ff7-a00-27ff-fe6e-283c.ngrok-free.app
+school_api -> https://www.google.co.in
 teacher_api -> https://be71-2406-7400-3b-3ff7-a00-27ff-fe6e-283c.ngrok-free.app
