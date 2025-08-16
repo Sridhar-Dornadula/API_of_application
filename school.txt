@@ -1,3 +1,3 @@
-teacher_api -> https://8c3043641ac0.ngrok-free.app
-apis_api -> https://6063773f9a74.ngrok-free.app
-school_api -> https://de9ad351344d.ngrok-free.app
+school_api -> https://9cec31c1d94a.ngrok-free.app
+apis_api -> https://670c39247f35.ngrok-free.app
+teacher_api -> https://2831314e0092.ngrok-free.app
